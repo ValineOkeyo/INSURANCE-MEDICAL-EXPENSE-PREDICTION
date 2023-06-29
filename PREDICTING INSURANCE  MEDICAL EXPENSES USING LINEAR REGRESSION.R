@@ -311,9 +311,4 @@ functional form seem to be validated. The higher-order age2 term is statisticall
 significant, as is the obesity indicator, bmi30. The interaction between obesity and 
 smoking suggests a massive effect; in addition to the increased costs of over $13,430
 for smoking alone, obese smokers spend another $19,370 per year. This may suggest 
-that smoking exacerbates diseases associated with obesity.
-
-
-  
-  
-  
+that smoking exacerbates diseases associated with obesity.  
